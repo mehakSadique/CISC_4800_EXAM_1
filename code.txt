@@ -1,40 +1,65 @@
 <!DOCTYPE
 <html>
     <title>Mehak</title>
-    <img src=" https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg"alt=200 width=200 height=200>
+    <h1 style="color:black;text-align:center;">TECHCLASS </h1>
+    <h1 style="color:black;text-align:center;">REAL WORLD EXPERIENCE </h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Acer_Aspire_8920_Gemstone.jpg"alt=200 width=200 height=200>
     <link rel="stylesheet" type="text/css" href="bod.css">
-    <p> Mehak </p>
+    
 
-    <body> Hi my name is Mehak Sadique. I am 20 years old about to turn 21 in march </body>
-    <p> Family
-        <li> 2 brothers
+    <p> The following items are required for purchase to attend the next class <p>
+    <p> 
+        <li> Computer
         </li>
-        <li> 1 sister</li>
-    <li> 2 parents  </li> 
+        <li> Mouse</li>
+    <li> Keyboard  </li> 
+    <li> Printer  </li> 
 </p>
+<body> The class will focus on three things </body>
+    <p> 
+        <ol> 1. IT
+        </ol>
+        <ol> 2. Installation</ol>
+    <ol> 3 .Basic Software  </ol> 
+  
+</p>
+<p> The following is schedule for course</p>
 <table border="5">
     <tr>
-        <h1 style="color:orangered;text-align:center;">This is my table </h1>
-        <p style="color:red;">This describes my table .</p>
-      <th>Movies/Songs</th>
-      <th> Favorites</th>
+        <h1 style="color:black;text-align:center;">This is my table </h1>
+        
+      <th>Course Name</th>
+      <th> Meeting Dates and Times</th>
+      <th>Price</th>
     </tr>
     <tr>
-      <td>Songs</td>
-      <td>Yummy ft Justin Beiber</td>
+      <td>CSC 28</td>
+      <td>06/2020-10/2020 9am-1pm</td>
+      <td>$1789</td>
       
     </tr>
     <tr>
-      <td>Movies</td>
-      <td>Kabir Singh</td>
+      <td>CSC 29</td>
+      <td>09/2020-10/2020 1pm-3pm</td>
+      <td>$1542
+      </td>
     </tr>
+    <tr>
+        <td>CSC 30</td>
+        <td>07/2020-09/2020 8amm-12pm</td>
+        <td>$1542
+        </td>
+      </tr>
   </table>
-    <div>Hello </div>
-    <ol>Hello </ol>
-    <ul>Hello </ul>
-    <li>Hello </li>
+    <div>Hello 
+    <ol>This is an ordered list tag </ol>
+    <ul>this is an unordered list tag </ul>
+    
+</div>
     <br>Hello </br>
-    <h1>Hello
+
+    <h1> to register, email to: register@domain.com OR click the following  link <a href="url">www.teachclass.com</a>
+
         <style>
 
         
@@ -43,8 +68,9 @@
           }
           
           h1 {
-            color: maroon;
-            margin-left: 40px;
+            color: black;
+            margin-left: 10px;
+            font-size: 13;
           } 
         </style>
          </h1>
