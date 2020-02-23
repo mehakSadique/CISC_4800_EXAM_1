@@ -1,21 +1,51 @@
 <!DOCTYPE
 <html>
-    <img src=" "alt=50/>
-    <p> Hello </p>
-    <table>Hello 
-    <tr>Hello
-    <td> Hello</td>
-    <th> Hello</th>
-</tr>
-<tr>Hello
-    <td> Hello</td>
-    <th> Hello</th>
-</tr>
-</table>
+    <title>Mehak</title>
+    <img src=" https://upload.wikimedia.org/wikipedia/commons/e/e0/SNice.svg"alt=200 width=200 height=200>
+    <link rel="stylesheet" type="text/css" href="bod.css">
+    <p> Mehak </p>
+
+    <body> Hi my name is Mehak Sadique. I am 20 years old about to turn 21 in march </body>
+    <p> Family
+        <li> 2 brothers
+        </li>
+        <li> 1 sister</li>
+    <li> 2 parents  </li> 
+</p>
+<table border="5">
+    <tr>
+        <h1 style="color:orangered;text-align:center;">This is my table </h1>
+        <p style="color:red;">This describes my table .</p>
+      <th>Movies/Songs</th>
+      <th> Favorites</th>
+    </tr>
+    <tr>
+      <td>Songs</td>
+      <td>Yummy ft Justin Beiber</td>
+      
+    </tr>
+    <tr>
+      <td>Movies</td>
+      <td>Kabir Singh</td>
+    </tr>
+  </table>
     <div>Hello </div>
     <ol>Hello </ol>
     <ul>Hello </ul>
     <li>Hello </li>
     <br>Hello </br>
-    <h1>Hello </h1>
+    <h1>Hello
+        <style>
+
+        
+        body {
+            background-color: linen;
+          }
+          
+          h1 {
+            color: maroon;
+            margin-left: 40px;
+          } 
+        </style>
+         </h1>
     </html> 
